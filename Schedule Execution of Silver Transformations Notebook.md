@@ -1,0 +1,22 @@
+# Schedule Exceution of Silver Transformations Notebook on Weekday 7
+
+## Complete Pipleine
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/d6cabf90-50c0-4ef1-b430-bae1699f1f79" />
+
+
+## Weekday Lookup Run
+<img width="731" alt="image" src="https://github.com/user-attachments/assets/d882c8bf-0272-4d82-ab8a-68f586feeebd" />
+
+
+## IfWeekDay
+<img width="722" alt="image" src="https://github.com/user-attachments/assets/a33b781c-7100-44a1-ac66-74092f7b198b" />
+
+
+
+## SilverMasterData - On true
+<img width="729" alt="image" src="https://github.com/user-attachments/assets/e049b897-708b-4918-b654-251615efd429" />
+
+
+
+## On False print the Weekday
+<img width="737" alt="image" src="https://github.com/user-attachments/assets/82661b4d-ee37-4a02-a87c-1713c909aa43" />
