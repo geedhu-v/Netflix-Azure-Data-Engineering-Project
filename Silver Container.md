@@ -32,6 +32,13 @@
 <img width="1130" alt="image" src="https://github.com/user-attachments/assets/6dfeb009-5073-47f4-a476-2fbad966ab89" />
 ### Step5: Run the Pipeline.
 <img width="1125" alt="image" src="https://github.com/user-attachments/assets/f5c708bc-dcd0-4fef-82b0-ae5c9d8c399b" />
+### Step6: Exceuted Succesfully
+<img width="1121" alt="image" src="https://github.com/user-attachments/assets/506aff45-aadf-4882-862b-e38ed26fa1f3" />
+
+#### After performing Operation:
+**Silver Container:**
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/29e7ec39-0a2d-430e-aa81-1f61a0d5c441" />
+
 
 
 
